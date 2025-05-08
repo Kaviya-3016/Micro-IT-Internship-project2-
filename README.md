@@ -7,7 +7,7 @@ A classic Tic-Tac-Toe game built using Java, created as part of the Micro IT Ind
 
 Tic-Tac-Toe is a fun and strategic game where two players (X and O) take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.
 
-✅ Internship Project Title: Project 17 - Tic-Tac-Toe Game
+✅ Internship Project Title: Tic-Tac-Toe Game
 🎓 Internship: Micro IT India Internship 2025
 
 ## 🎯 Features
